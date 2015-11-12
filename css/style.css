@@ -1,0 +1,149 @@
+li {
+
+}
+body {
+	font-size:12px;
+	font-kerning: 14.4px;
+	font-family:'Open Sans';
+	font-weight: normal;
+}
+.char-style-override-1 {
+	font-family: 'Open Sans';
+	font-size: 61px;
+	font-weight: bold;
+text-align: center;
+max-width: 1200px;
+color: #67BAAD;
+}
+
+.Basic-Text-Frame .Basic-Paragraph{
+	width: 80%;
+margin: 0 auto;
+text-align: center;
+}
+.char-style-override-2 {
+	font-family: 'Georgia';
+	font-size: 61px;
+	font-weight: bold;
+text-align: center;
+max-width: 100%;
+}
+
+h1{
+font-size: 22px;
+font-family: 'Open Sans';
+font-weight: bold;
+
+}
+
+ul, .full-width {
+  width: 100%;
+  background: #67BAAD;
+}
+.wrap {
+  width: 120%;
+  max-width: 24em;
+  margin: 0 auto;
+  padding: 0.25em 0.625em;
+	overflow: auto;
+}
+.grad .wrap {
+	width: 1200px;
+	max-width: inherit;
+}
+
+ul{
+
+list-style: none;
+font-size: 21px;
+font-family:'Open Sans';
+color: white;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+ul li{
+padding-left: 20px;
+}
+
+.postcontainer{
+width: 800px;
+margin: auto;
+
+}
+
+.seniors{
+font-family: 'Open Sans';
+font-size: 14px;
+font-weight: normal;
+max-width: 375px;
+float: left;
+}
+
+.infovis{
+	font-family: 'Open Sans';
+font-size: 14px;
+font-weight: normal;
+max-width: 375px;
+float: right;
+}
+
+.infovis a{
+margin: 0;
+
+}
+
+.internship{
+	font-family: 'Open Sans';
+font-size: 14px;
+font-weight: normal;
+max-width: 375px;
+float: right;
+}
+
+.meetup{
+font-family: 'Open Sans';
+font-size: 14px;
+font-weight: normal;
+max-width: 375px;
+float: left;
+}
+
+.grad{
+font-family: 'Open Sans semibold';
+font-size: 12px;
+background-color: #67BAAD;
+clear: both;
+}
+.grad ul {
+	width: 2200px;
+}
+.grad li {
+	float: left;
+}
+
+
+a {
+float: left;
+margin-left: 20px;
+max-width: 1200px;
+color: white;
+}
+
+.heat{
+font-family: 'Open Sans';
+font-size: 14px;
+max-width: 400px;
+margin-right: 300px;
+margin: 0 auto;
+}
+
+.heat a{
+color: black;
+text-align: center;
+}
+
+.clear {
+	clear: both;
+}
